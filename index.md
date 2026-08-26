@@ -22,7 +22,7 @@ My research interests include:
 - Eruption forecasting
 
 <figure>
-  <img src="/assets/img/research/pdf"
+  <img src="/assets/img/research/crustal-weakening.jpg"
        alt="Geophysical observations showing crustal weakening during volcanic unrest">
   <figcaption>
     Tracking changes in crustal behaviour as volcanic systems approach rupture.
