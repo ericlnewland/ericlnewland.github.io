@@ -28,7 +28,7 @@ My research interests include:
   <figure class="gallery-item">
     <a href="{{ '/assets/img/research/particle-plumes.jpg' | relative_url }}"
        target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/research/plume-experiment.jpg' | relative_url }}"
+      <img src="{{ '/assets/img/research/particle-plumes.jpg' | relative_url }}"
            alt="Laboratory experiments investigating volcanic plume dynamics">
     </a>
     <figcaption>
