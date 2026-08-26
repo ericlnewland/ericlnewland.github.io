@@ -25,6 +25,6 @@ A list of publications will be added soon.
 ## Contact
 
 - University of Bristol
-- [Google Scholar](ADD-YOUR-LINK-HERE)
-- [LinkedIn](ADD-YOUR-LINK-HERE)
+- [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=hkzlhUgAAAAJ&scilu=&scisig=AOcXxEUAAAAAao7V_-sCvE5HQmvwBZULbERWqSo&gmla=AKCpqFz4bK12Dt9fFqPaDm5fk8Ar6DdkZoB2on8eTty-hHEz-f0FnJxmuJkpJ8zbPQGoQuh6QAh9yCc0HJDDmux7FB5SlN57eEFyxPY&sciund=9487580993215789303)
+- [LinkedIn](https://www.linkedin.com/in/eric-newland-42aa13128/)
 - Email: px26843@bristol.ac.uk
