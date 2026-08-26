@@ -26,24 +26,43 @@ My research interests include:
 <div class="gallery-scroll">
 
   <figure class="gallery-item">
-    <img src="{{ '/assets/img/research/particle-plumes.jpg' | relative_url }}"
-         alt="Laboratory experiment showing a volcanic plume analogue">
-    <figcaption>
-      Laboratory experiments investigating volcanic plume dynamics.
-    </figcaption>
+    <a href="#image-1">
+      <img src="{{ '/assets/img/research/particle-plumes.jpg' | relative_url }}"
+           alt="Laboratory experiment showing a volcanic plume analogue">
+    </a>
+    <figcaption>Laboratory experiments investigating volcanic plume dynamics.</figcaption>
   </figure>
 
   <figure class="gallery-item">
-    <img src="{{ '/assets/img/research/crustal-weakening.jpg' | relative_url }}"
-         alt="Geophysical observations of volcanic unrest">
-    <figcaption>
-      Tracking crustal weakening as volcanic systems approach rupture.
-    </figcaption>
+    <a href="#image-2">
+      <img src="{{ '/assets/img/research/crustal-weakening.jpg' | relative_url }}"
+           alt="Geophysical observations of volcanic unrest">
+    </a>
+    <figcaption>Tracking crustal weakening as volcanic systems approach rupture.</figcaption>
   </figure>
 
 </div>
 
 <p class="gallery-hint">Scroll to explore →</p>
+
+
+<!-- Enlarged images -->
+
+<div id="image-1" class="lightbox">
+  <a href="#gallery-close" class="lightbox-background" aria-label="Close image"></a>
+  <a href="#gallery-close" class="lightbox-close" aria-label="Close image">×</a>
+  <img src="{{ '/assets/img/research/plume-experiment.jpg' | relative_url }}"
+       alt="Laboratory experiment showing a volcanic plume analogue">
+</div>
+
+<div id="image-2" class="lightbox">
+  <a href="#gallery-close" class="lightbox-background" aria-label="Close image"></a>
+  <a href="#gallery-close" class="lightbox-close" aria-label="Close image">×</a>
+  <img src="{{ '/assets/img/research/crustal-weakening.jpg' | relative_url }}"
+       alt="Geophysical observations of volcanic unrest">
+</div>
+
+<span id="gallery-close"></span>
 
 
 ## Publications
