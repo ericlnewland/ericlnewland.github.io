@@ -21,13 +21,13 @@ My research interests include:
 - Mathematical and numerical modelling
 - Eruption forecasting
 
-<figure>
+<!-- <figure>
   <img src="/assets/img/research/crustal-weakening.jpg"
        alt="Geophysical observations showing crustal weakening during volcanic unrest">
   <figcaption>
     Tracking changes in crustal behaviour as volcanic systems approach rupture.
   </figcaption>
-</figure>
+</figure> -->
 
 
 ## Publications
