@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Accent colour */
+a {
+  color: #a54f3f;
+}
+
+a:hover,
+a:focus {
+  color: #74352b;
+}
+
+/* Optional: headings */
+h1,
+h2,
+h3 {
+  color: #333333;
+}
