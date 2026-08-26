@@ -21,13 +21,29 @@ My research interests include:
 - Mathematical and numerical modelling
 - Eruption forecasting
 
-<!-- <figure>
-  <img src="/assets/img/research/crustal-weakening.jpg"
-       alt="Geophysical observations showing crustal weakening during volcanic unrest">
-  <figcaption>
-    Tracking changes in crustal behaviour as volcanic systems approach rupture.
-  </figcaption>
-</figure> -->
+<h2>Research gallery</h2>
+
+<div class="gallery-scroll">
+
+  <figure class="gallery-item">
+    <img src="{{ '/assets/img/research/particle-plumes.jpg' | relative_url }}"
+         alt="Laboratory experiment showing a volcanic plume analogue">
+    <figcaption>
+      Laboratory experiments investigating volcanic plume dynamics.
+    </figcaption>
+  </figure>
+
+  <figure class="gallery-item">
+    <img src="{{ '/assets/img/research/crustal-weakening.jpg' | relative_url }}"
+         alt="Geophysical observations of volcanic unrest">
+    <figcaption>
+      Tracking crustal weakening as volcanic systems approach rupture.
+    </figcaption>
+  </figure>
+
+</div>
+
+<p class="gallery-hint">Scroll to explore →</p>
 
 
 ## Publications
