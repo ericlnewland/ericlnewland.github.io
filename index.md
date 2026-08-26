@@ -20,7 +20,55 @@ My research interests include:
 
 ## Publications
 
-A list of publications will be added soon.
+<ol>
+  <li>
+    <strong>Newland, E. L.</strong> &amp; Kilburn, C. R. J. (2026).
+    Crustal weakening before rupture at volcanoes after long repose.
+    <em>Nature Communications</em>.
+    <a href="https://doi.org/10.1038/s41467-026-77001-5"
+       target="_blank" rel="noopener noreferrer">doi:10.1038/s41467-026-77001-5</a>
+  </li>
+
+  <li>
+    <strong>Newland, E. L.</strong> &amp; Woods, A. W. (2024).
+    The dynamics of impinging plumes from a moving source.
+    <em>Journal of Fluid Mechanics</em>, <strong>982</strong>, A6.
+    <a href="https://doi.org/10.1017/jfm.2024.104"
+       target="_blank" rel="noopener noreferrer">doi:10.1017/jfm.2024.104</a>
+  </li>
+
+  <li>
+    <strong>Newland, E. L.</strong> &amp; Woods, A. W. (2023).
+    On particle fountains in a crossflow.
+    <em>Journal of Fluid Mechanics</em>, <strong>964</strong>, A10.
+    <a href="https://doi.org/10.1017/jfm.2023.342"
+       target="_blank" rel="noopener noreferrer">doi:10.1017/jfm.2023.342</a>
+  </li>
+
+  <li>
+    Collins, G. S., <strong>Newland, E. L.</strong>, et al. (2022).
+    The meteoroid fragmentation in the Martian atmosphere and the formation of crater clusters.
+    <em>Journal of Geophysical Research: Planets</em>, <strong>127</strong>(3), e2021JE007149.
+    <a href="https://doi.org/10.1029/2021JE007149"
+       target="_blank" rel="noopener noreferrer">doi:10.1029/2021JE007149</a>
+  </li>
+
+  <li>
+    <strong>Newland, E. L.</strong>, Mingotti, N. &amp; Woods, A. W. (2022).
+    Dynamics of deep-submarine volcanic eruptions.
+    <em>Scientific Reports</em>, <strong>12</strong>, 3276.
+    <a href="https://doi.org/10.1038/s41598-022-07351-9"
+       target="_blank" rel="noopener noreferrer">doi:10.1038/s41598-022-07351-9</a>
+  </li>
+
+  <li>
+    <strong>Newland, E. L.</strong> &amp; Woods, A. W. (2021).
+    On particle fountains in a stratified environment.
+    <em>Journal of Fluid Mechanics</em>, <strong>917</strong>, A22.
+    <a href="https://doi.org/10.1017/jfm.2021.295"
+       target="_blank" rel="noopener noreferrer">doi:10.1017/jfm.2021.295</a>
+  </li>
+</ol>
 
 ## Contact
 
