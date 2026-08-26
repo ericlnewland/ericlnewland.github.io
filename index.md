@@ -20,7 +20,7 @@ My research interests include:
 
 ## About
 
-I am a Senior Research Associate at the University of Bristol. Previously, I worked on the FEVER project at University College London, investigating unrest at volcanoes reawakening after long repose. I completed my PhD in Physical Volcanology at the University of Cambridge and my MSci in Geophysics at Imperial College London.
+I am a Senior Research Associate at the University of Bristol. Previously, I worked on the FEVER project at University College London, investigating unrest at volcanoes reawakening after long repose. I completed my PhD in Geophysical Fluid Dynamics at the University of Cambridge and my MSci in Geophysics at Imperial College London.
 
 
 ## Publications
