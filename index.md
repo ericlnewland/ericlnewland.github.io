@@ -5,6 +5,8 @@ title: Eric Newland
 
 # Eric Newland
 
+![Photograph of Eric Newland](Profile.jpg)
+
 Senior Research Associate at the University of Bristol
 
 I am a volcanologist researching volcanic plumes and unrest using mathematical models, fluid-dynamical experiments and geophysical observations.
