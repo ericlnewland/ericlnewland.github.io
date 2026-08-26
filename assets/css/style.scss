@@ -52,24 +52,28 @@ h3 {
 }
 
 .gallery-item {
-  flex: 0 0 190px;
-  width: 190px;
+  flex: 0 0 260px;
+  width: 260px;
   margin: 0;
   scroll-snap-align: start;
 }
 
-.gallery-item a {
-  display: block;
-}
-
 .gallery-item img {
   display: block;
-  width: 190px;
+  width: 260px;
   height: auto;
   max-width: none;
   border-radius: 5px;
   cursor: zoom-in;
   transition: opacity 0.2s ease;
+}
+
+.gallery-item figcaption {
+  width: 260px;
+  margin-top: 7px;
+  color: #666666;
+  font-size: 0.78rem;
+  line-height: 1.35;
 }
 
 .gallery-item img:hover {
