@@ -95,6 +95,41 @@ h3 {
   text-align: right;
 }
 
+button.gallery-button {
+  appearance: none;
+  -webkit-appearance: none;
+
+  display: block;
+  width: max-content;
+  margin: 0;
+  padding: 0;
+
+  border: none !important;
+  outline: none;
+  border-radius: 0;
+  box-shadow: none !important;
+  background: transparent !important;
+
+  cursor: zoom-in;
+}
+
+button.gallery-button:focus {
+  border: none !important;
+  outline: none;
+  box-shadow: none !important;
+}
+
+button.gallery-button:focus-visible {
+  outline: 2px solid #a54f3f;
+  outline-offset: 3px;
+}
+
+.gallery-button img {
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
 /* Enlarged image popup */
 
 .gallery-lightbox {
