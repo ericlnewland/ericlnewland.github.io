@@ -61,11 +61,22 @@ My research interests include:
     </figcaption>
   </figure>
 
-
-
 </div>
 
-<p class="gallery-hint">Scroll to explore →</p>
+<p class="gallery-hint">→</p>
+
+<dialog class="gallery-lightbox" id="gallery-lightbox">
+
+  <button
+    class="lightbox-close"
+    type="button"
+    aria-label="Close enlarged image">
+    &times;
+  </button>
+
+  <img id="lightbox-image" src="" alt="">
+
+</dialog>
 
 
 ## Publications
@@ -128,3 +139,29 @@ My research interests include:
   <li><a href="https://www.linkedin.com/in/eric-newland-42aa13128/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
   <li>Email: <a href="mailto:px26843@bristol.ac.uk">px26843@bristol.ac.uk</a></li>
 </ul>
+
+
+<script>
+  const lightbox = document.getElementById("gallery-lightbox");
+  const lightboxImage = document.getElementById("lightbox-image");
+  const closeButton = lightbox.querySelector(".lightbox-close");
+  const galleryButtons = document.querySelectorAll(".gallery-button");
+
+  galleryButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      lightboxImage.src = button.dataset.full;
+      lightboxImage.alt = button.dataset.alt;
+      lightbox.showModal();
+    });
+  });
+
+  closeButton.addEventListener("click", () => {
+    lightbox.close();
+  });
+
+  lightbox.addEventListener("click", (event) => {
+    if (event.target === lightbox) {
+      lightbox.close();
+    }
+  });
+</script>
