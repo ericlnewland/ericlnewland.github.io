@@ -61,6 +61,24 @@ My research interests include:
     </figcaption>
   </figure>
 
+  <figure class="gallery-item">
+    <button
+      class="gallery-button"
+      type="button"
+      data-full="{{ '/assets/img/research/impinging-plumes.jpg' | relative_url }}"
+      data-alt="Impinging plumes in a crossflow">
+  
+      <img
+        src="{{ '/assets/img/research/impinging-plumes.jpg' | relative_url }}"
+        alt="Geophysical observations of volcanic unrest">
+  
+    </button>
+  
+    <figcaption>
+      The dynamics of impinging plumes in a crossflow.
+    </figcaption>
+  </figure>
+
 </div>
 
 <p class="gallery-hint">→</p>
