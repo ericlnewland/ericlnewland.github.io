@@ -52,28 +52,27 @@ h3 {
 }
 
 .gallery-item {
-  flex: 0 0 260px;
-  width: 260px;
+  flex: 0 0 auto;
+  width: max-content;
+  max-width: none;
   margin: 0;
   scroll-snap-align: start;
 }
 
+.gallery-item a {
+  display: block;
+  width: max-content;
+}
+
 .gallery-item img {
   display: block;
-  width: 260px;
-  height: auto;
+  width: auto;
+  height: 180px;
   max-width: none;
+  object-fit: contain;
   border-radius: 5px;
   cursor: zoom-in;
   transition: opacity 0.2s ease;
-}
-
-.gallery-item figcaption {
-  width: 260px;
-  margin-top: 7px;
-  color: #666666;
-  font-size: 0.78rem;
-  line-height: 1.35;
 }
 
 .gallery-item img:hover {
@@ -81,7 +80,8 @@ h3 {
 }
 
 .gallery-item figcaption {
-  width: 190px;
+  width: 100%;
+  max-width: 280px;
   margin-top: 7px;
   color: #666666;
   font-size: 0.78rem;
