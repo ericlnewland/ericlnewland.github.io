@@ -2,8 +2,6 @@
 layout: default
 title: Eric Newland
 ---
-Senior Research Associate at the University of Bristol
-
 I am a volcanologist researching volcanic plumes and unrest using mathematical models, fluid-dynamical experiments and geophysical observations.
 
 My current research focuses on the dynamics of volcanic plumes as part of the **Ex-X: Expecting the Unexpected** NERC project at the University of Bristol.
@@ -15,10 +13,11 @@ I am a Senior Research Associate at the University of Bristol. Previously, I wor
 
 My research interests include:
 
-- Volcanic plume dynamics
-- Unsteady and starting plumes
+- Geophysical fluid dynamics
+- Volcanic plumes and gravity currents
 - Volcanic deformation and unrest
-- Mathematical and numerical modelling
+- Fracture mechanics
+- Volcano Seismology
 - Eruption forecasting
 
 <h2>Research gallery</h2>
