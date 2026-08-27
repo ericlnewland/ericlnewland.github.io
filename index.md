@@ -26,26 +26,42 @@ My research interests include:
 <div class="gallery-scroll">
 
   <figure class="gallery-item">
-    <a href="{{ '/assets/img/research/particle-plumes.jpg' | relative_url }}"
-       target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/research/particle-plumes.jpg' | relative_url }}"
-           alt="Laboratory experiments investigating volcanic plume dynamics">
-    </a>
+    <button
+      class="gallery-button"
+      type="button"
+      data-full="{{ '/assets/img/research/particle-plumes.jpg' | relative_url }}"
+      data-alt="Laboratory experiments investigating volcanic plume dynamics">
+  
+      <img
+        src="{{ '/assets/img/research/particle-plumes.jpg' | relative_url }}"
+        alt="Laboratory experiments investigating volcanic plume dynamics">
+  
+    </button>
+  
     <figcaption>
       Laboratory experiments investigating volcanic plume dynamics.
     </figcaption>
   </figure>
 
   <figure class="gallery-item">
-    <a href="{{ '/assets/img/research/crustal-weakening.jpg' | relative_url }}"
-       target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/assets/img/research/crustal-weakening.jpg' | relative_url }}"
-           alt="Geophysical observations of volcanic unrest">
-    </a>
+    <button
+      class="gallery-button"
+      type="button"
+      data-full="{{ '/assets/img/research/crustal-weakening.jpg' | relative_url }}"
+      data-alt="Geophysical observations of volcanic unrest">
+  
+      <img
+        src="{{ '/assets/img/research/crustal-weakening.jpg' | relative_url }}"
+        alt="Geophysical observations of volcanic unrest">
+  
+    </button>
+  
     <figcaption>
       Tracking crustal weakening as volcanic systems approach rupture.
     </figcaption>
   </figure>
+
+
 
 </div>
 
