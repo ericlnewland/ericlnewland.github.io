@@ -81,7 +81,7 @@ I examine how volcanic systems deform, fracture and weaken as they approach rupt
 
 </div>
 
-<p class="gallery-hint">→</p>
+<p class="gallery-hint">scroll for more →</p>
 
 <dialog class="gallery-lightbox" id="gallery-lightbox">
 
