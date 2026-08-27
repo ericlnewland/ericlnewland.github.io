@@ -9,9 +9,6 @@ My current research focuses on the dynamics of volcanic plumes as part of the **
 
 Currently, I am a Senior Research Associate at the University of Bristol. I previously worked on the FEVER project at University College London, investigating unrest at volcanoes reawakening after long repose. I completed my PhD in Geophysical Fluid Dynamics at the University of Cambridge and my MSci in Geophysics at Imperial College London.
 
-
-## Research
-
 ## Research
 
 My work spans two closely connected areas of volcanology:
