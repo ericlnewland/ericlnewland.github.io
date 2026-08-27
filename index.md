@@ -7,18 +7,22 @@ I am a volcanologist researching volcanic plumes and unrest using mathematical m
 My current research focuses on the dynamics of volcanic plumes as part of the **Ex-X: Expecting the Unexpected** NERC project at the University of Bristol.
 ## About
 
-I am a Senior Research Associate at the University of Bristol. Previously, I worked on the FEVER project at University College London, investigating unrest at volcanoes reawakening after long repose. I completed my PhD in Geophysical Fluid Dynamics at the University of Cambridge and my MSci in Geophysics at Imperial College London.
+Currently, I am a Senior Research Associate at the University of Bristol. I previously worked on the FEVER project at University College London, investigating unrest at volcanoes reawakening after long repose. I completed my PhD in Geophysical Fluid Dynamics at the University of Cambridge and my MSci in Geophysics at Imperial College London.
+
 
 ## Research
 
-My research interests include:
+## Research
 
-- Geophysical fluid dynamics
-- Volcanic plumes and gravity currents
-- Volcanic deformation and unrest
-- Fracture mechanics
-- Volcano Seismology
-- Eruption forecasting
+My work spans two closely connected areas of volcanology:
+
+### Volcanic plume dynamics
+
+I investigate how volcanic plumes develop and interact with their surroundings using mathematical models, numerical simulations and laboratory experiments. My current research focuses on the unsteady dynamics of starting plumes.
+
+### Volcanic unrest and eruption forecasting
+
+I examine how volcanic systems deform, fracture and weaken as they approach rupture. By combining physical models with seismic and geodetic observations, I aim to identify changes in crustal behaviour that may help anticipate eruptions.
 
 <h2>Research gallery</h2>
 
