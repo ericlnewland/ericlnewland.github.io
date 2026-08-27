@@ -155,7 +155,7 @@ I examine how volcanic systems deform, fracture and weaken as they approach rupt
 ## Contact
 
 <ul>
-  <li>University of Bristol</li>
+  <li><a href="https://www.bristol.ac.uk/people/person/Eric-Newland-d703ea80-10b0-410c-afe2-40b8284001e5/" target="_blank" rel="noopener noreferrer">University of Bristol</a></li>
   <li><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=hkzlhUgAAAAJ&scilu=&scisig=AOcXxEUAAAAAao7V_-sCvE5HQmvwBZULbERWqSo&gmla=AKCpqFz4bK12Dt9fFqPaDm5fk8Ar6DdkZoB2on8eTty-hHEz-f0FnJxmuJkpJ8zbPQGoQuh6QAh9yCc0HJDDmux7FB5SlN57eEFyxPY&sciund=9487580993215789303" target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
   <li><a href="https://www.linkedin.com/in/eric-newland-42aa13128/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
   <li>Email: <a href="mailto:px26843@bristol.ac.uk">px26843@bristol.ac.uk</a></li>
